@@ -88,13 +88,3 @@ $traffic = $router->getTraffic();
 للأسئلة أو المشاكل، يرجى فتح طلب مساعدة أو التواصل عبر البريد الإلكتروني: youremail@example.com
 
 ✨ مبروك! أنت الآن جاهز لبدء استخدام النظام.
-
-
-### إضافات مقترحة:
-
-1. **أضف صورًا حقيقية** لواجهة النظام بدل الصورة النائبة
-2. **أضف فيديو توضيحي** قصير (يمكن رفعه على YouTube)
-3. **أضف شارة الحالة** (Badges) مثل:
-   ```markdown
-   ![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue)
-   ![License](https://img.shields.io/badge/License-MIT-green)
